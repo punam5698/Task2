@@ -1,5 +1,6 @@
 #Importing required libraries
 
+
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -7,6 +8,7 @@ import matplotlib.pyplot as plt
 %matplotlib inline
 from sklearn import datasets
 from sklearn.cluster import KMeans
+
 
 #To ignore the warning
 import warnings as wg
